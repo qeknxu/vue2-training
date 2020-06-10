@@ -281,8 +281,8 @@ export default {
         // 檢核
 
         var tokenData = {
-          username: "henry.chang@ebaotech.com",
-          password: "Sve13818"
+          username: "",
+          password: ""
         };
         let result = await getToken(tokenData);
 
